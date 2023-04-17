@@ -1,3 +1,5 @@
+# Establecimientos de Educación Superior en la provincia de Buenos Aires. Un análisis desde la desigualdad socioterritorial. 
+
 👉 Objetivo:
 
 El presente trabajo se propone indagar cómo se relaciona la desigualdad socioterritorial de la provincia de Buenos Aires con la distribución de instituciones de educación superior.
